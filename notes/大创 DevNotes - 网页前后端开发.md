@@ -58,3 +58,8 @@ url -> urls.python下的path -> backend中view.py对应函数 -> 返回渲染的
 * 下载了第三方 Bootstrap 模板 Regna.zip
 * 修改 Regna 模板，使其支持了被 django 启动
 * 改变 Regna 模板的团队部分为5人
+
+### 2018.10.23 记录
+
+* 初步修改主页内容
+* 搜寻次级页面的模板
