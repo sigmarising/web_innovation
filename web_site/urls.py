@@ -15,10 +15,21 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-import backend.views as vw
+import backend.views as v
 
 urlpatterns = [
+    # url for django admin pages
     path('admin/', admin.site.urls),
-    path('', vw.link_index),
-    path('index/', vw.link_index),
+
+    # url for index page
+    path('', v.link_index),
+    path('index', v.link_index),
+    path('index.html', v.link_index),
+
+    # url for template
+    path('bloghome', v.link_tempBlogHome),
+    path('bloghome.html', v.link_tempBlogHome),
+    path('blogpost', v.link_tempBlogPost),
+    path('blogpost.html', v.link_tempBlogPost),
+
 ]
