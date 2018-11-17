@@ -81,7 +81,7 @@ DATABASES = {
         'PASSWORD': 'zhangyun',
         'HOST': 'localhost',
         'PORT': '3306',
-        'NAME': 'test',
+        'NAME': 'gelai',
     }
 }
 

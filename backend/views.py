@@ -4,12 +4,12 @@ from django.shortcuts import render
 
 
 def link_index(request):
-    return render(request, 'pages_index.html')
+    return render(request, 'index.html')
 
 
-def link_tempBlogHome(request):
-    return render(request, 'temp_bloghome.html')
+def link_home(requset):
+    return render(requset, 'home.html')
 
 
-def link_tempBlogPost(request):
-    return render(request, 'temp_blogpost.html')
+def link_sd_index(request):
+    return render(request, 'sd_index.html')

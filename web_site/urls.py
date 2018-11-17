@@ -26,10 +26,9 @@ urlpatterns = [
     path('index', v.link_index),
     path('index.html', v.link_index),
 
-    # url for template
-    path('bloghome', v.link_tempBlogHome),
-    path('bloghome.html', v.link_tempBlogHome),
-    path('blogpost', v.link_tempBlogPost),
-    path('blogpost.html', v.link_tempBlogPost),
+    # url for home page
+    path('home.html', v.link_home),
 
+    # url for origin data show
+    path('sd_index.html', v.link_sd_index),
 ]
