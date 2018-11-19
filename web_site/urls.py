@@ -23,7 +23,7 @@ urlpatterns = [
 
     # url for index page
     path('', v.link_index),
-    path('index', v.link_index),
+    path('index/', v.link_index),
     path('index.html', v.link_index),
 
     # url for home page
@@ -31,4 +31,11 @@ urlpatterns = [
 
     # url for origin data show
     path('sd_index.html', v.link_sd_index),
+    path('sd_dynasty.html', v.link_sd_dynasty),
+    path('sd_poet.html', v.link_sd_poet),
+
+    # url for ajax request
+    path('getPoets', v.request_get_poets),
+    path('getPoetIntro', v.request_get_poet_intro),
+    path('getPoetry', v.request_get_poetry),
 ]
