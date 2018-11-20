@@ -34,6 +34,9 @@ urlpatterns = [
     path('sd_dynasty.html', v.link_sd_dynasty),
     path('sd_poet.html', v.link_sd_poet),
 
+    # url for space-route visual
+    path('route_map.html', v.link_space_route_visual),
+
     # url for ajax request
     path('getPoets', v.request_get_poets),
     path('getPoetIntro', v.request_get_poet_intro),

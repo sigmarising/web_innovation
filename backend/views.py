@@ -27,6 +27,10 @@ def link_sd_poet(request):
     return render(request, 'sd_poet.html')
 
 
+def link_space_route_visual(request):
+    return render(request, 'route_map.html')
+
+
 def request_get_poets(request):
     param = request.GET
     return JsonResponse(dal.db_get_poet(param["dynasty"]))

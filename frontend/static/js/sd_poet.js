@@ -109,4 +109,7 @@ $(() => {
         }
     });
 
+    $("#btn_up").click(()=>{
+        window.location.href = "sd_dynasty.html?dynasty=" + g_idDynasty;
+    });
 });

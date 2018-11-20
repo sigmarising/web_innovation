@@ -10,7 +10,7 @@
     <meta name="author" content="BUPT-SCS-02">
     <!-- Favicon icon -->
     <link rel="icon" type="image/png" sizes="16x16" href="/static/assets/images/science-black.png">
-    <title>原始数据</title>
+    <title>时空关系可视化</title>
     <!-- Custom CSS -->
     <link href="/static/assets/libs/flot/css/float-chart.css" rel="stylesheet">
     <!-- Custom CSS -->
@@ -53,7 +53,7 @@
                     <!-- ============================================================== -->
                     <!-- Logo -->
                     <!-- ============================================================== -->
-                    <a class="navbar-brand" href="sd_index.html">
+                    <a class="navbar-brand" href="route_map.html">
                         <!-- Logo icon -->
                         <b class="logo-icon p-l-10">
                             <!--You can put here icon as well // <i class="wi wi-sunset"></i> //-->
@@ -88,25 +88,8 @@
                     <!-- toggle and nav items -->
                     <!-- ============================================================== -->
                     <ul class="navbar-nav float-left mr-auto">
-                        <li class="nav-item d-none d-md-block">
-                            <a class="nav-link sidebartoggler waves-effect waves-light" href="javascript:void(0)" data-sidebartype="mini-sidebar">
-                                <i class="mdi mdi-menu font-24"></i>
-                            </a>
-                        </li>
-                    
-                        <li class="nav-item d-none d-md-block">
-                            <a id="btn_up" class="nav-link waves-effect waves-light">
-                                <i class="mdi mdi-arrow-up font-24"></i>
-                            </a>
-                        </li>
-                        <!-- ============================================================== -->
-                        <!-- Search -->
-                        <!-- ============================================================== -->
-                        <li class="nav-item search-box"> <a class="nav-link waves-effect waves-dark" href="javascript:void(0)"><i class="ti-search"></i></a>
-                            <form class="app-search position-absolute">
-                                <input type="text" class="form-control" placeholder="Search &amp; enter"> <a class="srh-btn"><i class="ti-close"></i></a>
-                            </form>
-                        </li>
+                        <li class="nav-item d-none d-md-block"><a class="nav-link sidebartoggler waves-effect waves-light"
+                                href="javascript:void(0)" data-sidebartype="mini-sidebar"><i class="mdi mdi-menu font-24"></i></a></li>
                     </ul>
                 </div>
             </nav>
@@ -123,44 +106,9 @@
                 <!-- Sidebar navigation-->
                 <nav class="sidebar-nav">
                     <ul id="sidebarnav" class="p-t-30">
+                        <!-- use selected to select item -->
                         <li class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link" href="home.html"
                                 aria-expanded="false"><i class="mdi mdi-home"></i><span class="hide-menu">返回首页</span></a></li>
-                        <li id="si1" class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"
-                                href="sd_dynasty.html?dynasty=1" aria-expanded="false"><i class="mdi mdi-view-dashboard"></i><span
-                                    class="hide-menu">秦朝</span></a></li>
-                        <li id="si2" class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"
-                                href="sd_dynasty.html?dynasty=2" aria-expanded="false"><i class="mdi mdi-chart-bar"></i><span
-                                    class="hide-menu">汉朝</span></a></li>
-                        <li id="si3" class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"
-                                href="sd_dynasty.html?dynasty=3" aria-expanded="false"><i class="mdi mdi-chart-bubble"></i><span
-                                    class="hide-menu">魏晋</span></a></li>
-                        <li id="si4" class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"
-                                href="sd_dynasty.html?dynasty=4" aria-expanded="false"><i class="mdi mdi-border-inside"></i><span
-                                    class="hide-menu">南北</span></a></li>
-                        <li id="si5" class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"
-                                href="sd_dynasty.html?dynasty=5" aria-expanded="false"><i class="mdi mdi-airballoon"></i><span
-                                    class="hide-menu">隋朝</span></a></li>
-                        <li id="si6" class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"
-                                href="sd_dynasty.html?dynasty=6" aria-expanded="false"><i class="mdi mdi-adjust"></i><span
-                                    class="hide-menu">唐代</span></a></li>
-                        <li id="si7" class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"
-                                href="sd_dynasty.html?dynasty=7" aria-expanded="false"><i class="mdi mdi-airplane-takeoff"></i><span
-                                    class="hide-menu">宋代</span></a></li>
-                        <li id="si8" class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"
-                                href="sd_dynasty.html?dynasty=8" aria-expanded="false"><i class="mdi mdi-amazon-clouddrive"></i><span
-                                    class="hide-menu">辽代</span></a></li>
-                        <li id="si9" class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"
-                                href="sd_dynasty.html?dynasty=9" aria-expanded="false"><i class="mdi mdi-archive"></i><span
-                                    class="hide-menu">金代</span></a></li>
-                        <li id="si10" class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"
-                                href="sd_dynasty.html?dynasty=10" aria-expanded="false"><i class="mdi mdi-bandcamp"></i><span
-                                    class="hide-menu">元代</span></a></li>
-                        <li id="si11" class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"
-                                href="sd_dynasty.html?dynasty=11" aria-expanded="false"><i class="mdi mdi-book"></i><span
-                                    class="hide-menu">明代</span></a></li>
-                        <li id="si12" class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"
-                                href="sd_dynasty.html?dynasty=12" aria-expanded="false"><i class="mdi mdi-cards"></i><span
-                                    class="hide-menu">清代</span></a></li>
                     </ul>
                 </nav>
                 <!-- End Sidebar navigation -->
@@ -180,10 +128,7 @@
             <div class="page-breadcrumb">
                 <div class="row">
                     <div class="col-12 d-flex no-block align-items-center">
-                        <h4 class="page-title" id="head_name"></h4>
-                    </div>
-                    <div class="col-12 d-flex no-block align-items-center" style="margin-top:9px">
-                        <p id="head_intro"></p>
+                        <h4 class="page-title">人物时空关系可视化</h4>
                     </div>
                 </div>
             </div>
@@ -193,18 +138,23 @@
             <!-- ============================================================== -->
             <!-- Container fluid  -->
             <!-- ============================================================== -->
-            <div class="container-fluid">
+            <div id="mainthing" class="container-fluid">
                 <!-- ============================================================== -->
                 <!-- Start Page Content -->
                 <!-- ============================================================== -->
-
-                <div class="card-columns" id="content_inside">
-
+                <div class="row el-element-overlay">
+                    <div class="col-lg-12 col-md-12" id="c1">
+                        <div class="card">
+                            <div class="card-body">
+                                <iframe id="ifr" src="http://127.0.0.1:8080/jpkc/geolocation.html" frameborder="0" width="100%" height="100%"></iframe>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-
                 <!-- ============================================================== -->
                 <!-- End PAge Content -->
                 <!-- ============================================================== -->
+
             </div>
             <!-- ============================================================== -->
             <!-- End Container fluid  -->
@@ -242,10 +192,9 @@
     <!--Custom JavaScript -->
     <script src="/static/dist/js/custom.min.js"></script>
     <!--This page JavaScript -->
-    <script src="/static/js/sd_poet.js"></script>
-    
-    <link href="/static/css/main_loader.css" rel="stylesheet">
-
+    <script>
+        $("#ifr").height($("#mainthing").height());
+    </script>
 </body>
 
 </html>
