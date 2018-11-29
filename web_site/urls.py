@@ -37,6 +37,9 @@ urlpatterns = [
     # url for space-route visual
     path('route_map.html', v.link_space_route_visual),
 
+    # url for data-analysis
+    path('network.html', v.link_network),
+
     # url for ajax request
     path('getPoets', v.request_get_poets),
     path('getPoetIntro', v.request_get_poet_intro),

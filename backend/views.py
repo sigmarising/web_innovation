@@ -31,6 +31,10 @@ def link_space_route_visual(request):
     return render(request, 'route_map.html')
 
 
+def link_network(request):
+    return render(request, 'network.html')
+
+
 def request_get_poets(request):
     param = request.GET
     return JsonResponse(dal.db_get_poet(param["dynasty"]))
