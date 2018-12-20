@@ -138,3 +138,17 @@ class Poetry(models.Model):
     class Meta:
         managed = False
         db_table = 'poetry'
+
+
+class TeacherXu(models.Model):
+    id = models.IntegerField(primary_key=True)
+    title_zh = models.CharField(max_length=255, blank=True, null=True)
+    content_zh = models.TextField(blank=True, null=True)
+    title_en = models.CharField(max_length=255, blank=True, null=True)
+    content_en = models.TextField(blank=True, null=True)
+    create_time = models.CharField(max_length=255, blank=True, null=True)
+    remark_content = models.CharField(max_length=255, blank=True, null=True)
+
+    class Meta:
+        managed = False
+        db_table = 'teacher_xu'

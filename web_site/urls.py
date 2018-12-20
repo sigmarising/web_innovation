@@ -40,8 +40,15 @@ urlpatterns = [
     # url for data-analysis
     path('network.html', v.link_network),
 
+    # url for one-more-thing
+    path('onemorething.html', v.link_onemorething),
+    path('one_poem_index.html', v.link_one_poem_index),
+    path('one_poem_inside.html', v.link_one_poem_inside),
+
     # url for ajax request
     path('getPoets', v.request_get_poets),
     path('getPoetIntro', v.request_get_poet_intro),
     path('getPoetry', v.request_get_poetry),
+    path('getXuAll', v.request_get_xu_all),
+    path('getXuInside', v.request_get_xu_inside)
 ]
