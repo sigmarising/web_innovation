@@ -54,3 +54,44 @@ def db_get_poetry(poet_id=None):
         logger.warning("WARNING: db_get_poetry 参数 poet_id 为 None")
 
     return response
+
+
+def db_get_xu_all():
+    response = {"All": []}
+
+    with transaction.atomic():
+        all_poetry = m.TeacherXu.objects.all().order_by("id")
+        for poetry in all_poetry:
+            item = {
+                "id": poetry.id,
+                "title_zh": poetry.title_zh,
+                "content_zh": poetry.content_zh[0:20],
+                "title_en": poetry.title_en,
+            }
+            response["All"].append(item)
+
+    return response
+
+
+def db_get_xu_inside(id):
+    response = {
+        "title_zh": "",
+        "content_zh": "",
+        "title_en": "",
+        "content_en": "",
+        "create_time": "",
+        "remark": ""
+    }
+    if id:
+        with transaction.atomic():
+            thing = m.TeacherXu.objects.get(id=id)
+            response["title_zh"] = thing.title_zh
+            response["content_zh"] = thing.content_zh
+            response["title_en"] = thing.title_en
+            response["content_en"] = thing.content_en
+            response["create_time"] = thing.create_time
+            response["remark"] = thing.remark_content
+    else:
+        logger.warning("WARNING: db_get_xu_inside 参数 id 为 None")
+
+    return response

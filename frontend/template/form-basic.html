@@ -853,6 +853,7 @@
     <script src="../static/assets/libs/jquery-asColorPicker/dist/jquery-asColorPicker.min.js"></script>
     <script src="../static/assets/libs/jquery-minicolors/jquery.minicolors.min.js"></script>
     <script src="../static/assets/libs/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js"></script>
+    <script src="../static/assets/libs/bootstrap-datepicker/dist/locales/bootstrap-datepicker.zh-CN.min.js"></script>
     <script src="../static/assets/libs/quill/dist/quill.min.js"></script>
     <script>
         //***********************************//
@@ -890,7 +891,12 @@
         jQuery('.mydatepicker').datepicker();
         jQuery('#datepicker-autoclose').datepicker({
             autoclose: true,
-            todayHighlight: true
+            todayHighlight: true,
+            format: 'yyyy/mm/dd',
+            language: 'zh-CN',
+            weekStart: 0,
+            clearBtn: true,
+            
         });
         var quill = new Quill('#editor', {
             theme: 'snow'

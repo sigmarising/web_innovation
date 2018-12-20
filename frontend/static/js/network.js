@@ -31,6 +31,7 @@ $(() => {
                     item.label.show = item.value > 10;
                     item.itemStyle.color = a_color[Math.floor(Math.random() * a_color.length)];
                 });
+                console.log(nodes.length);
 
                 // get edges
                 $.ajax({
@@ -149,6 +150,12 @@ $(() => {
             g_ec.forEach(item => {
                 item.resize();
             });
+        });
+        $(".sidebartoggler").click(() => {
+            g_ec.forEach(item => {
+                item.resize();
+            });
+            console.log(1);
         });
     });
 });
