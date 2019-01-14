@@ -1,0 +1,8164 @@
+{
+    "edges": [
+        {
+            "source": "云水",
+            "target": "刘克庄",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "姚勉",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "孙应时",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "张栻",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "张耒",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "强至",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "戴复古",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "方回",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "方岳",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "曾丰",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "杨万里",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "梅尧臣",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "楼钥",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "欧阳修",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "王之道",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "王安石",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "白玉蟾",
+            "value": 8,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "程公许",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "胡寅",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "舒岳祥",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "苏轼",
+            "value": 17,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "苏颂",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "范成大",
+            "value": 8,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "赵蕃",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "邵雍",
+            "value": 11,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "陆游",
+            "value": 8,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "陈著",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "陈造",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "韩元吉",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "韩维",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "项安世",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "魏了翁",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "云水",
+            "target": "黄庭坚",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "刘克庄",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "周必大",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "姚勉",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "孙应时",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "宋祁",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "岳珂",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "张耒",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "强至",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "戴复古",
+            "value": 9,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "方岳",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "曾丰",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "杨万里",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "梅尧臣",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "楼钥",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "欧阳修",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "王之道",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "白玉蟾",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "程珌",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "胡寅",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "苏轼",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "范成大",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "陆游",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "陈著",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "陈造",
+            "value": 14,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "韩元吉",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冰壶",
+            "target": "黄庭坚",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "刘克庄",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "周南",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "周必大",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "姚勉",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "孙应时",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "宋祁",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "岳珂",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "张栻",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "张耒",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "强至",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "戴复古",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "文同",
+            "value": 13,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "方回",
+            "value": 9,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "方岳",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "晁说之",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "曾丰",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "杨万里",
+            "value": 15,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "梅尧臣",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "楼钥",
+            "value": 8,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "欧阳修",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "王之道",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "王安石",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "王柏",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "程公许",
+            "value": 10,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "苏轼",
+            "value": 11,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "苏辙",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "苏颂",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "范成大",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "赵蕃",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "陆游",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "陈著",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "陈造",
+            "value": 11,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "韩元吉",
+            "value": 8,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "韩维",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "项安世",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘光祖",
+            "target": "魏了翁",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "叶李",
+            "value": 19,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "司马光",
+            "value": 14,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "周南",
+            "value": 17,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "周必大",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "姚勉",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "孙应时",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "宋甡",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "宋祁",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "廖刚",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "张栻",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "张耒",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "强至",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "戴复古",
+            "value": 8,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "方回",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "方岳",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "朱熹",
+            "value": 38,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "杨万里",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "林同",
+            "value": 15,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "林逋",
+            "value": 19,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "柴望",
+            "value": 10,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "武夷",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "江万里",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "王安石",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "王柏",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "王遇",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "程珌",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "胡一桂",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "胡寅",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "舒岳祥",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "苏轼",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "苏辙",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "赵蕃",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "邵雍",
+            "value": 14,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "陆游",
+            "value": 18,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "陈章",
+            "value": 17,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "魏了翁",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "黄庭坚",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "岳珂",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "文同",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "晁说之",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "楼钥",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "范成大",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "陈著",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘克庄",
+            "target": "陈造",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "司马光",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "周必大",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "姚勉",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "孙应时",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "宋祁",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "张耒",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "强至",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "戴复古",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "方回",
+            "value": 18,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "方岳",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "晁说之",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "曾丰",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "杨万里",
+            "value": 16,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "林逋",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "梅尧臣",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "楼钥",
+            "value": 11,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "欧阳修",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "江万里",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "王之道",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "王安石",
+            "value": 9,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "白玉蟾",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "程公许",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "程珌",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "胡寅",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "苏轼",
+            "value": 33,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "苏辙",
+            "value": 14,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "苏颂",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "范成大",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "赵蕃",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "陆游",
+            "value": 9,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "陈著",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "陈造",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "韩元吉",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "项安世",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "魏了翁",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "叶李",
+            "target": "黄庭坚",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "周南",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "宋甡",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "宋祁",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "张栻",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "强至",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "朱熹",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "林同",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "柴望",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "梅尧臣",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "江万里",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "江梅",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "王安石",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "王柏",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "苏轼",
+            "value": 10,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "苏颂",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "邵雍",
+            "value": 22,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "陆游",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "陈章",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "陈著",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "周必大",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "岳珂",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "张耒",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "方回",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "方岳",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "曾丰",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "杨万里",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "楼钥",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "程公许",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "苏辙",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "范成大",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "赵蕃",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "陈造",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "韩元吉",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "韩维",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "魏了翁",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "司马光",
+            "target": "黄庭坚",
+            "value": 14,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "王遇",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "周必大",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "姚勉",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "孙应时",
+            "value": 11,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "宋祁",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "岳珂",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "张栻",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "张耒",
+            "value": 8,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "强至",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "戴复古",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "方回",
+            "value": 11,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "方岳",
+            "value": 8,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "晁说之",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "杨万里",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "梅尧臣",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "楼钥",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "王之道",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "王安石",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "程公许",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "舒岳祥",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "苏轼",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "苏辙",
+            "value": 15,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "苏颂",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "范成大",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "赵蕃",
+            "value": 8,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "陆游",
+            "value": 28,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "陈著",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "陈造",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "韩元吉",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "魏了翁",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周南",
+            "target": "黄庭坚",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "姚勉",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "张栻",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "张耒",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "朱熹",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "杨万里",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "林同",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "柴望",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "楼钥",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "江万里",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "江梅",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "王遇",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "胡一桂",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "胡寅",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "苏轼",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "苏辙",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "陆游",
+            "value": 9,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "陈章",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "韩元吉",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "魏了翁",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "黄庭坚",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "岳珂",
+            "value": 18,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "方回",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "梅尧臣",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "王柏",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "苏颂",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "范成大",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "赵蕃",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周必大",
+            "target": "陈造",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "廖刚",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "晁说之",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "朱熹",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "林同",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "林逋",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "柴望",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "武夷",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "江万里",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "王安石",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "王柏",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "盈盈",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "邵雍",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "陈章",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "岳珂",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "强至",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "戴复古",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "文同",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "方回",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "方岳",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "曾丰",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "杨万里",
+            "value": 9,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "梅尧臣",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "楼钥",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "欧阳修",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "王之道",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "白玉蟾",
+            "value": 8,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "程公许",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "胡寅",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "舒岳祥",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "苏轼",
+            "value": 10,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "苏辙",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "苏颂",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "范成大",
+            "value": 8,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "赵蕃",
+            "value": 12,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "陆游",
+            "value": 11,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "陈著",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "陈造",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "韩元吉",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "项安世",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "魏了翁",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚勉",
+            "target": "黄庭坚",
+            "value": 10,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孙应时",
+            "target": "宋甡",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孙应时",
+            "target": "廖刚",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孙应时",
+            "target": "张栻",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孙应时",
+            "target": "朱熹",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孙应时",
+            "target": "林同",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孙应时",
+            "target": "林逋",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孙应时",
+            "target": "武夷",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孙应时",
+            "target": "江万里",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孙应时",
+            "target": "江梅",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孙应时",
+            "target": "王柏",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孙应时",
+            "target": "王遇",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孙应时",
+            "target": "程珌",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孙应时",
+            "target": "胡一桂",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孙应时",
+            "target": "胡寅",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孙应时",
+            "target": "舒岳祥",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孙应时",
+            "target": "苏辙",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孙应时",
+            "target": "邵雍",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孙应时",
+            "target": "陆游",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孙应时",
+            "target": "陈章",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孙应时",
+            "target": "魏了翁",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孙应时",
+            "target": "黄庭坚",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孙应时",
+            "target": "晁说之",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "陆游",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "宋祁",
+            "value": 31,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "岳珂",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "张栻",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "张耒",
+            "value": 20,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "强至",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "戴复古",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "文同",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "方回",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "方岳",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "晁说之",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "曾丰",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "杨万里",
+            "value": 14,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "梅尧臣",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "欧阳修",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "王之道",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "白玉蟾",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "程公许",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "胡寅",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "苏轼",
+            "value": 13,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "苏辙",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "苏颂",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "范成大",
+            "value": 13,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "赵蕃",
+            "value": 9,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "邵雍",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "陈著",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "陈造",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "韩元吉",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "韩维",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "魏了翁",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋甡",
+            "target": "黄庭坚",
+            "value": 9,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "廖刚",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "张栻",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "杨万里",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "林同",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "林逋",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "柴望",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "梅尧臣",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "楼钥",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "武夷",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "江万里",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "江梅",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "王遇",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "盈盈",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "程珌",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "胡寅",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "赵蕃",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "陈章",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "魏了翁",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "岳珂",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "张耒",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "戴复古",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "方回",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "晁说之",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "欧阳修",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "苏轼",
+            "value": 38,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "苏辙",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "苏颂",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "陆游",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "陈著",
+            "value": 9,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "韩元吉",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋祁",
+            "target": "黄庭坚",
+            "value": 11,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岳珂",
+            "target": "廖刚",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岳珂",
+            "target": "张栻",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岳珂",
+            "target": "张耒",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岳珂",
+            "target": "晁说之",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岳珂",
+            "target": "朱熹",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岳珂",
+            "target": "杨万里",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岳珂",
+            "target": "柴望",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岳珂",
+            "target": "江万里",
+            "value": 18,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岳珂",
+            "target": "王之道",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岳珂",
+            "target": "王遇",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岳珂",
+            "target": "程珌",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岳珂",
+            "target": "胡一桂",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岳珂",
+            "target": "胡寅",
+            "value": 18,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岳珂",
+            "target": "苏轼",
+            "value": 18,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岳珂",
+            "target": "苏辙",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岳珂",
+            "target": "赵蕃",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岳珂",
+            "target": "陈章",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岳珂",
+            "target": "魏了翁",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岳珂",
+            "target": "黄庭坚",
+            "value": 12,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "张耒",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "张栻",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "强至",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "戴复古",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "文同",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "方回",
+            "value": 8,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "晁说之",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "曾丰",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "杨万里",
+            "value": 11,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "梅尧臣",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "楼钥",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "欧阳修",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "王之道",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "白玉蟾",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "程公许",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "程珌",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "舒岳祥",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "苏轼",
+            "value": 9,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "苏辙",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "范成大",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "赵蕃",
+            "value": 14,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "邵雍",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "陆游",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "陈著",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "韩元吉",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "韩维",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "项安世",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "魏了翁",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "廖刚",
+            "target": "黄庭坚",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "张耒",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "朱熹",
+            "value": 21,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "林同",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "林逋",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "武夷",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "江万里",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "江梅",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "王安石",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "王遇",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "程珌",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "苏辙",
+            "value": 9,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "强至",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "戴复古",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "方回",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "曾丰",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "杨万里",
+            "value": 20,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "梅尧臣",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "楼钥",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "欧阳修",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "王之道",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "程公许",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "胡寅",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "苏轼",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "赵蕃",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "陆游",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "陈著",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "项安世",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "魏了翁",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张栻",
+            "target": "黄庭坚",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "朱熹",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "林同",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "林逋",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "柴望",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "武夷",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "江万里",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "江梅",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "王安石",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "王柏",
+            "value": 10,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "王遇",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "盈盈",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "程珌",
+            "value": 13,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "胡一桂",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "胡寅",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "舒岳祥",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "苏轼",
+            "value": 8,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "苏辙",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "陈章",
+            "value": 13,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "魏了翁",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "黄庭坚",
+            "value": 21,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "方回",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "方岳",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "曾丰",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "杨万里",
+            "value": 9,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "梅尧臣",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "楼钥",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "王之道",
+            "value": 12,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "白玉蟾",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "程公许",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "范成大",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "赵蕃",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "陆游",
+            "value": 8,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "陈著",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张耒",
+            "target": "陈造",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "强至",
+            "target": "晁说之",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "强至",
+            "target": "朱熹",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "强至",
+            "target": "林同",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "强至",
+            "target": "林逋",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "强至",
+            "target": "江万里",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "强至",
+            "target": "江梅",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "强至",
+            "target": "王柏",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "强至",
+            "target": "王遇",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "强至",
+            "target": "程珌",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "强至",
+            "target": "苏辙",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "强至",
+            "target": "邵雍",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "强至",
+            "target": "陈章",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "强至",
+            "target": "杨万里",
+            "value": 12,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "强至",
+            "target": "韩维",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "强至",
+            "target": "黄庭坚",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "戴复古",
+            "target": "方回",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "戴复古",
+            "target": "方岳",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "戴复古",
+            "target": "晁说之",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "戴复古",
+            "target": "朱熹",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "戴复古",
+            "target": "江万里",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "戴复古",
+            "target": "江梅",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "戴复古",
+            "target": "王遇",
+            "value": 13,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "戴复古",
+            "target": "程珌",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "戴复古",
+            "target": "胡一桂",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "戴复古",
+            "target": "舒岳祥",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "戴复古",
+            "target": "赵蕃",
+            "value": 10,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "戴复古",
+            "target": "陆游",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "戴复古",
+            "target": "陈章",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "戴复古",
+            "target": "魏了翁",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "文同",
+            "target": "朱熹",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "文同",
+            "target": "柴望",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "文同",
+            "target": "梅尧臣",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "文同",
+            "target": "江梅",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "文同",
+            "target": "王柏",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "文同",
+            "target": "程珌",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "文同",
+            "target": "苏轼",
+            "value": 47,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "文同",
+            "target": "苏辙",
+            "value": 75,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "文同",
+            "target": "邵雍",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "文同",
+            "target": "陈章",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "文同",
+            "target": "魏了翁",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "文同",
+            "target": "方回",
+            "value": 8,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "文同",
+            "target": "杨万里",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "文同",
+            "target": "楼钥",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "文同",
+            "target": "王之道",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "文同",
+            "target": "程公许",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "文同",
+            "target": "赵蕃",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "文同",
+            "target": "陆游",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "文同",
+            "target": "陈造",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "文同",
+            "target": "黄庭坚",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "方岳",
+            "value": 18,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "晁说之",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "朱熹",
+            "value": 42,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "林同",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "林逋",
+            "value": 21,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "柴望",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "梅尧臣",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "江万里",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "江梅",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "王安石",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "王柏",
+            "value": 9,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "王遇",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "程珌",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "胡寅",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "舒岳祥",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "苏轼",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "苏辙",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "赵蕃",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "邵雍",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "陆游",
+            "value": 15,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "陈章",
+            "value": 18,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "韩维",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "魏了翁",
+            "value": 18,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "黄庭坚",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "杨万里",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "王之道",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "陈著",
+            "value": 11,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "陈造",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方回",
+            "target": "韩元吉",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方岳",
+            "target": "朱熹",
+            "value": 23,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方岳",
+            "target": "林同",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方岳",
+            "target": "林逋",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方岳",
+            "target": "柴望",
+            "value": 11,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方岳",
+            "target": "武夷",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方岳",
+            "target": "江万里",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方岳",
+            "target": "江梅",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方岳",
+            "target": "王柏",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方岳",
+            "target": "王遇",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方岳",
+            "target": "程珌",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方岳",
+            "target": "胡一桂",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方岳",
+            "target": "舒岳祥",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方岳",
+            "target": "陆游",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方岳",
+            "target": "魏了翁",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方岳",
+            "target": "黄庭坚",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方岳",
+            "target": "曾丰",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方岳",
+            "target": "白玉蟾",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方岳",
+            "target": "程公许",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方岳",
+            "target": "苏轼",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方岳",
+            "target": "苏颂",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方岳",
+            "target": "范成大",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方岳",
+            "target": "陈造",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "晁说之",
+            "target": "朱熹",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "晁说之",
+            "target": "林同",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "晁说之",
+            "target": "柴望",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "晁说之",
+            "target": "江梅",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "晁说之",
+            "target": "王柏",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "晁说之",
+            "target": "程珌",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "晁说之",
+            "target": "胡寅",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "晁说之",
+            "target": "苏辙",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "晁说之",
+            "target": "陈章",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "晁说之",
+            "target": "韩元吉",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "晁说之",
+            "target": "黄庭坚",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "晁说之",
+            "target": "杨万里",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "晁说之",
+            "target": "梅尧臣",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "晁说之",
+            "target": "楼钥",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "晁说之",
+            "target": "欧阳修",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "晁说之",
+            "target": "王之道",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "晁说之",
+            "target": "程公许",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "晁说之",
+            "target": "苏轼",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "晁说之",
+            "target": "苏颂",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "晁说之",
+            "target": "赵蕃",
+            "value": 10,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "晁说之",
+            "target": "邵雍",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "晁说之",
+            "target": "陆游",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "晁说之",
+            "target": "韩维",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "晁说之",
+            "target": "项安世",
+            "value": 13,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "曾丰",
+            "target": "朱熹",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "曾丰",
+            "target": "林同",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "曾丰",
+            "target": "林逋",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "曾丰",
+            "target": "柴望",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "曾丰",
+            "target": "梅尧臣",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "曾丰",
+            "target": "武夷",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "曾丰",
+            "target": "王柏",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "曾丰",
+            "target": "王遇",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "曾丰",
+            "target": "程珌",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "曾丰",
+            "target": "邵雍",
+            "value": 9,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "曾丰",
+            "target": "陈章",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "曾丰",
+            "target": "韩元吉",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "曾丰",
+            "target": "黄庭坚",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "朱熹",
+            "target": "武夷",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "朱熹",
+            "target": "江万里",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "朱熹",
+            "target": "江梅",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "朱熹",
+            "target": "杨万里",
+            "value": 23,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "朱熹",
+            "target": "林同",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "朱熹",
+            "target": "梅尧臣",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "朱熹",
+            "target": "楼钥",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "朱熹",
+            "target": "王柏",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "朱熹",
+            "target": "白玉蟾",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "朱熹",
+            "target": "苏轼",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "朱熹",
+            "target": "苏颂",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "朱熹",
+            "target": "赵蕃",
+            "value": 56,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "朱熹",
+            "target": "陆游",
+            "value": 14,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "朱熹",
+            "target": "陈著",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "朱熹",
+            "target": "陈造",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "朱熹",
+            "target": "韩元吉",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "朱熹",
+            "target": "项安世",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "朱熹",
+            "target": "魏了翁",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "朱熹",
+            "target": "黄庭坚",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杨万里",
+            "target": "林同",
+            "value": 19,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杨万里",
+            "target": "林逋",
+            "value": 10,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杨万里",
+            "target": "柴望",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杨万里",
+            "target": "梅尧臣",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杨万里",
+            "target": "武夷",
+            "value": 13,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杨万里",
+            "target": "江万里",
+            "value": 11,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杨万里",
+            "target": "江梅",
+            "value": 15,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杨万里",
+            "target": "王柏",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杨万里",
+            "target": "王遇",
+            "value": 10,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杨万里",
+            "target": "程珌",
+            "value": 9,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杨万里",
+            "target": "胡寅",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杨万里",
+            "target": "舒岳祥",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杨万里",
+            "target": "苏轼",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杨万里",
+            "target": "苏辙",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杨万里",
+            "target": "赵蕃",
+            "value": 8,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杨万里",
+            "target": "邵雍",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杨万里",
+            "target": "陆游",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杨万里",
+            "target": "陈章",
+            "value": 14,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杨万里",
+            "target": "韩元吉",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杨万里",
+            "target": "黄庭坚",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杨万里",
+            "target": "楼钥",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杨万里",
+            "target": "程公许",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杨万里",
+            "target": "范成大",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杨万里",
+            "target": "陈著",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林同",
+            "target": "林逋",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林同",
+            "target": "梅尧臣",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林同",
+            "target": "楼钥",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林同",
+            "target": "欧阳修",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林同",
+            "target": "王安石",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林同",
+            "target": "程公许",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林同",
+            "target": "胡寅",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林同",
+            "target": "舒岳祥",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林同",
+            "target": "苏轼",
+            "value": 19,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林同",
+            "target": "苏辙",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林同",
+            "target": "范成大",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林同",
+            "target": "赵蕃",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林同",
+            "target": "邵雍",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林同",
+            "target": "陆游",
+            "value": 27,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林同",
+            "target": "陈著",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林同",
+            "target": "陈造",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林同",
+            "target": "韩元吉",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林同",
+            "target": "项安世",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林同",
+            "target": "魏了翁",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林同",
+            "target": "黄庭坚",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林逋",
+            "target": "梅尧臣",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林逋",
+            "target": "盈盈",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林逋",
+            "target": "陈章",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林逋",
+            "target": "楼钥",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林逋",
+            "target": "王之道",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林逋",
+            "target": "王柏",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林逋",
+            "target": "程公许",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林逋",
+            "target": "程珌",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林逋",
+            "target": "胡寅",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林逋",
+            "target": "舒岳祥",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林逋",
+            "target": "苏轼",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林逋",
+            "target": "赵蕃",
+            "value": 9,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林逋",
+            "target": "陆游",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林逋",
+            "target": "陈造",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林逋",
+            "target": "韩元吉",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林逋",
+            "target": "项安世",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林逋",
+            "target": "魏了翁",
+            "value": 10,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "林逋",
+            "target": "黄庭坚",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "柴望",
+            "target": "江梅",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "柴望",
+            "target": "胡一桂",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "柴望",
+            "target": "梅尧臣",
+            "value": 12,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "柴望",
+            "target": "楼钥",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "柴望",
+            "target": "欧阳修",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "柴望",
+            "target": "王之道",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "柴望",
+            "target": "王安石",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "柴望",
+            "target": "程公许",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "柴望",
+            "target": "胡寅",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "柴望",
+            "target": "舒岳祥",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "柴望",
+            "target": "苏轼",
+            "value": 22,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "柴望",
+            "target": "苏辙",
+            "value": 13,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "柴望",
+            "target": "苏颂",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "柴望",
+            "target": "范成大",
+            "value": 10,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "柴望",
+            "target": "赵蕃",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "柴望",
+            "target": "邵雍",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "柴望",
+            "target": "陆游",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "柴望",
+            "target": "陈著",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "柴望",
+            "target": "陈造",
+            "value": 15,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "柴望",
+            "target": "韩元吉",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "柴望",
+            "target": "韩维",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "柴望",
+            "target": "项安世",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "柴望",
+            "target": "黄庭坚",
+            "value": 12,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "梅尧臣",
+            "target": "楼钥",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "梅尧臣",
+            "target": "江万里",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "梅尧臣",
+            "target": "江梅",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "梅尧臣",
+            "target": "王之道",
+            "value": 10,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "梅尧臣",
+            "target": "王安石",
+            "value": 18,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "梅尧臣",
+            "target": "王柏",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "梅尧臣",
+            "target": "王遇",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "梅尧臣",
+            "target": "盈盈",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "梅尧臣",
+            "target": "程珌",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "梅尧臣",
+            "target": "舒岳祥",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "梅尧臣",
+            "target": "苏轼",
+            "value": 9,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "梅尧臣",
+            "target": "苏辙",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "梅尧臣",
+            "target": "邵雍",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "梅尧臣",
+            "target": "陈章",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "梅尧臣",
+            "target": "韩元吉",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "梅尧臣",
+            "target": "韩维",
+            "value": 19,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "梅尧臣",
+            "target": "欧阳修",
+            "value": 74,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "梅尧臣",
+            "target": "苏颂",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "梅尧臣",
+            "target": "陆游",
+            "value": 11,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "梅尧臣",
+            "target": "陈著",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "楼钥",
+            "target": "江万里",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "楼钥",
+            "target": "江梅",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "楼钥",
+            "target": "王柏",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "楼钥",
+            "target": "王遇",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "楼钥",
+            "target": "程珌",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "楼钥",
+            "target": "舒岳祥",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "楼钥",
+            "target": "苏辙",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "楼钥",
+            "target": "邵雍",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "楼钥",
+            "target": "陆游",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "楼钥",
+            "target": "陈章",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "楼钥",
+            "target": "韩元吉",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "楼钥",
+            "target": "魏了翁",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "楼钥",
+            "target": "黄庭坚",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "楼钥",
+            "target": "欧阳修",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "楼钥",
+            "target": "苏轼",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "楼钥",
+            "target": "陈著",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "欧阳修",
+            "target": "江梅",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "欧阳修",
+            "target": "王安石",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "欧阳修",
+            "target": "王柏",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "欧阳修",
+            "target": "王遇",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "欧阳修",
+            "target": "盈盈",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "欧阳修",
+            "target": "程珌",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "欧阳修",
+            "target": "苏辙",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "欧阳修",
+            "target": "邵雍",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "欧阳修",
+            "target": "陈章",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "欧阳修",
+            "target": "韩元吉",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "欧阳修",
+            "target": "韩维",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "欧阳修",
+            "target": "苏轼",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "武夷",
+            "target": "王之道",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "武夷",
+            "target": "王柏",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "武夷",
+            "target": "白玉蟾",
+            "value": 49,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "武夷",
+            "target": "胡寅",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "武夷",
+            "target": "苏轼",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "武夷",
+            "target": "赵蕃",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "武夷",
+            "target": "陆游",
+            "value": 18,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "武夷",
+            "target": "韩元吉",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "武夷",
+            "target": "项安世",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江万里",
+            "target": "王之道",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江万里",
+            "target": "王安石",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江万里",
+            "target": "王柏",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江万里",
+            "target": "白玉蟾",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江万里",
+            "target": "程公许",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江万里",
+            "target": "程珌",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江万里",
+            "target": "胡寅",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江万里",
+            "target": "舒岳祥",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江万里",
+            "target": "苏轼",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江万里",
+            "target": "苏辙",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江万里",
+            "target": "苏颂",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江万里",
+            "target": "范成大",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江万里",
+            "target": "赵蕃",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江万里",
+            "target": "邵雍",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江万里",
+            "target": "陆游",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江万里",
+            "target": "陈著",
+            "value": 9,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江万里",
+            "target": "陈造",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江万里",
+            "target": "韩元吉",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江万里",
+            "target": "项安世",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江万里",
+            "target": "魏了翁",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江万里",
+            "target": "黄庭坚",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江梅",
+            "target": "王之道",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江梅",
+            "target": "王安石",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江梅",
+            "target": "白玉蟾",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江梅",
+            "target": "程公许",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江梅",
+            "target": "程珌",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江梅",
+            "target": "胡寅",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江梅",
+            "target": "苏轼",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江梅",
+            "target": "苏辙",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江梅",
+            "target": "范成大",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江梅",
+            "target": "赵蕃",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江梅",
+            "target": "陆游",
+            "value": 9,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江梅",
+            "target": "陈著",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江梅",
+            "target": "陈造",
+            "value": 13,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江梅",
+            "target": "韩元吉",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江梅",
+            "target": "韩维",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江梅",
+            "target": "项安世",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江梅",
+            "target": "魏了翁",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "江梅",
+            "target": "黄庭坚",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王之道",
+            "target": "王柏",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王之道",
+            "target": "盈盈",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王之道",
+            "target": "程珌",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王之道",
+            "target": "胡一桂",
+            "value": 9,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王之道",
+            "target": "胡寅",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王之道",
+            "target": "舒岳祥",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王之道",
+            "target": "陈章",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王之道",
+            "target": "韩元吉",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王之道",
+            "target": "韩维",
+            "value": 10,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王之道",
+            "target": "黄庭坚",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王之道",
+            "target": "王安石",
+            "value": 10,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王之道",
+            "target": "苏轼",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王安石",
+            "target": "王柏",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王安石",
+            "target": "王遇",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王安石",
+            "target": "程珌",
+            "value": 10,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王安石",
+            "target": "苏轼",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王安石",
+            "target": "陈章",
+            "value": 11,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王安石",
+            "target": "韩元吉",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王安石",
+            "target": "韩维",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王安石",
+            "target": "黄庭坚",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王安石",
+            "target": "陈著",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王安石",
+            "target": "项安世",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王安石",
+            "target": "魏了翁",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王柏",
+            "target": "王遇",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王柏",
+            "target": "程珌",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王柏",
+            "target": "胡寅",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王柏",
+            "target": "苏轼",
+            "value": 12,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王柏",
+            "target": "苏颂",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王柏",
+            "target": "邵雍",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王柏",
+            "target": "韩元吉",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王柏",
+            "target": "魏了翁",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王柏",
+            "target": "白玉蟾",
+            "value": 16,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王柏",
+            "target": "程公许",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王柏",
+            "target": "舒岳祥",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王柏",
+            "target": "苏辙",
+            "value": 11,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王柏",
+            "target": "赵蕃",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王柏",
+            "target": "陆游",
+            "value": 9,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王柏",
+            "target": "陈著",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王柏",
+            "target": "陈造",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王柏",
+            "target": "韩维",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王柏",
+            "target": "项安世",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王柏",
+            "target": "黄庭坚",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王遇",
+            "target": "程公许",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王遇",
+            "target": "程珌",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王遇",
+            "target": "胡寅",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王遇",
+            "target": "舒岳祥",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王遇",
+            "target": "苏轼",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王遇",
+            "target": "苏辙",
+            "value": 12,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王遇",
+            "target": "范成大",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王遇",
+            "target": "赵蕃",
+            "value": 10,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王遇",
+            "target": "陆游",
+            "value": 16,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王遇",
+            "target": "陈著",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王遇",
+            "target": "陈造",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王遇",
+            "target": "项安世",
+            "value": 13,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王遇",
+            "target": "魏了翁",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王遇",
+            "target": "黄庭坚",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "白玉蟾",
+            "target": "盈盈",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "白玉蟾",
+            "target": "程珌",
+            "value": 14,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "白玉蟾",
+            "target": "陈章",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "白玉蟾",
+            "target": "黄庭坚",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "盈盈",
+            "target": "胡寅",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "盈盈",
+            "target": "舒岳祥",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "盈盈",
+            "target": "苏轼",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "盈盈",
+            "target": "苏辙",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "盈盈",
+            "target": "范成大",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "盈盈",
+            "target": "赵蕃",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "盈盈",
+            "target": "陆游",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "盈盈",
+            "target": "陈著",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "盈盈",
+            "target": "陈造",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "盈盈",
+            "target": "韩维",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "盈盈",
+            "target": "魏了翁",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "盈盈",
+            "target": "黄庭坚",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "程公许",
+            "target": "程珌",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "程公许",
+            "target": "苏辙",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "程公许",
+            "target": "赵蕃",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "程公许",
+            "target": "陆游",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "程公许",
+            "target": "陈章",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "程公许",
+            "target": "韩维",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "程公许",
+            "target": "魏了翁",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "程公许",
+            "target": "黄庭坚",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "程珌",
+            "target": "胡一桂",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "程珌",
+            "target": "邵雍",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "程珌",
+            "target": "韩维",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "程珌",
+            "target": "舒岳祥",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "程珌",
+            "target": "苏轼",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "程珌",
+            "target": "苏辙",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "程珌",
+            "target": "苏颂",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "程珌",
+            "target": "范成大",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "程珌",
+            "target": "赵蕃",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "程珌",
+            "target": "陆游",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "程珌",
+            "target": "陈著",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "程珌",
+            "target": "陈造",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "程珌",
+            "target": "韩元吉",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "程珌",
+            "target": "项安世",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "程珌",
+            "target": "黄庭坚",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "胡一桂",
+            "target": "邵雍",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "胡一桂",
+            "target": "苏轼",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "胡一桂",
+            "target": "赵蕃",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "胡一桂",
+            "target": "黄庭坚",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "胡寅",
+            "target": "苏辙",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "胡寅",
+            "target": "陈章",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "胡寅",
+            "target": "韩元吉",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "胡寅",
+            "target": "苏轼",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "胡寅",
+            "target": "苏颂",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "胡寅",
+            "target": "赵蕃",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "胡寅",
+            "target": "陈造",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "胡寅",
+            "target": "魏了翁",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "舒岳祥",
+            "target": "苏轼",
+            "value": 8,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "舒岳祥",
+            "target": "苏辙",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "舒岳祥",
+            "target": "邵雍",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "舒岳祥",
+            "target": "陈章",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "舒岳祥",
+            "target": "黄庭坚",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "舒岳祥",
+            "target": "苏颂",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "舒岳祥",
+            "target": "范成大",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "舒岳祥",
+            "target": "赵蕃",
+            "value": 18,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "舒岳祥",
+            "target": "陆游",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "舒岳祥",
+            "target": "陈著",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "舒岳祥",
+            "target": "陈造",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "舒岳祥",
+            "target": "韩元吉",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "舒岳祥",
+            "target": "项安世",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "苏轼",
+            "target": "苏辙",
+            "value": 350,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "苏轼",
+            "target": "苏颂",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "苏轼",
+            "target": "陈章",
+            "value": 20,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "苏轼",
+            "target": "韩元吉",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "苏轼",
+            "target": "韩维",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "苏轼",
+            "target": "魏了翁",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "苏轼",
+            "target": "黄庭坚",
+            "value": 62,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "苏轼",
+            "target": "赵蕃",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "苏轼",
+            "target": "陈著",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "苏轼",
+            "target": "陈造",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "苏辙",
+            "target": "邵雍",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "苏辙",
+            "target": "陈章",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "苏辙",
+            "target": "韩元吉",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "苏辙",
+            "target": "韩维",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "苏辙",
+            "target": "黄庭坚",
+            "value": 16,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "苏辙",
+            "target": "苏颂",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "苏辙",
+            "target": "赵蕃",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "苏辙",
+            "target": "陆游",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "苏辙",
+            "target": "陈著",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "苏辙",
+            "target": "魏了翁",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "苏颂",
+            "target": "陈章",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "苏颂",
+            "target": "陈著",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "苏颂",
+            "target": "韩元吉",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "苏颂",
+            "target": "范成大",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "范成大",
+            "target": "陆游",
+            "value": 10,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "范成大",
+            "target": "陈章",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "范成大",
+            "target": "韩元吉",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "范成大",
+            "target": "魏了翁",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "范成大",
+            "target": "黄庭坚",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "赵蕃",
+            "target": "陈章",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "赵蕃",
+            "target": "韩元吉",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "赵蕃",
+            "target": "魏了翁",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "赵蕃",
+            "target": "黄庭坚",
+            "value": 17,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "赵蕃",
+            "target": "陈著",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "邵雍",
+            "target": "陈章",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "邵雍",
+            "target": "陈著",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "邵雍",
+            "target": "韩维",
+            "value": 11,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "邵雍",
+            "target": "魏了翁",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "陈章",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "韩元吉",
+            "value": 14,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "魏了翁",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "黄庭坚",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "陈章",
+            "target": "陈著",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "陈章",
+            "target": "陈造",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "陈章",
+            "target": "韩元吉",
+            "value": 42,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "陈章",
+            "target": "韩维",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "陈章",
+            "target": "项安世",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "陈章",
+            "target": "魏了翁",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "陈章",
+            "target": "黄庭坚",
+            "value": 24,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "陈著",
+            "target": "魏了翁",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "陈著",
+            "target": "黄庭坚",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "陈著",
+            "target": "韩维",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "陈造",
+            "target": "黄庭坚",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "韩元吉",
+            "target": "魏了翁",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "韩元吉",
+            "target": "黄庭坚",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "韩维",
+            "target": "魏了翁",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "项安世",
+            "target": "黄庭坚",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        }
+    ]
+}

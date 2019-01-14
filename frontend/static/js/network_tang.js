@@ -17,7 +17,7 @@ $(() => {
         let edges;
         $.ajax({
             type: "POST",
-            url: "static/data/nodes.json",
+            url: "static/data/nodes_tang.json",
             dataType: "json",
             success: data => {
                 nodes = data.nodes;
@@ -28,7 +28,7 @@ $(() => {
                     item.x = Math.floor(Math.random() * w);
                     item.y = Math.floor(Math.random() * h);
                     item.fixed = true;
-                    item.label.show = item.value > 10;
+                    item.label.show = true;
                     item.itemStyle.color = a_color[Math.floor(Math.random() * a_color.length)];
                 });
                 console.log(nodes.length);
@@ -36,7 +36,7 @@ $(() => {
                 // get edges
                 $.ajax({
                     type: "POST",
-                    url: "static/data/edges.json",
+                    url: "static/data/edges_tang.json",
                     dataType: "json",
                     success: data => {
                         edges = data.edges;
@@ -111,7 +111,7 @@ $(() => {
                         };
                         let option_c = {
                             title: {
-                                text: 'NetWork No.1',
+                                text: '唐朝人物关系网络-1',
                                 subtext: 'Circular layout',
                                 top: 'bottom',
                                 left: 'right'
@@ -121,7 +121,7 @@ $(() => {
                         };
                         let option_f = {
                             title: {
-                                text: 'NetWork No.2',
+                                text: '唐朝人物关系网络-2',
                                 subtext: 'Force layout',
                                 top: 'bottom',
                                 left: 'right'
@@ -145,6 +145,8 @@ $(() => {
                 console.log("ERROR: " + e.state + " " + e.statusText);
             }
         });
+
+       
 
         window.addEventListener("resize", ()=>{
             g_ec.forEach(item => {

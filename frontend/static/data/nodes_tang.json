@@ -1,0 +1,554 @@
+{
+    "nodes": [
+        {
+            "name": "严维",
+            "value": 0.008429916999146112,
+            "symbolSize": 8.929916999146112,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "元稹",
+            "value": 0.05243717177586444,
+            "symbolSize": 52.93717177586444,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "刘禹锡",
+            "value": 0.03826269785616264,
+            "symbolSize": 38.76269785616264,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "刘长卿",
+            "value": 0.01816190280086357,
+            "symbolSize": 18.66190280086357,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "卢纶",
+            "value": 0.01120979148556941,
+            "symbolSize": 11.70979148556941,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "姚合",
+            "value": 0.01148920581248413,
+            "symbolSize": 11.98920581248413,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "孟浩然",
+            "value": 0.02663003806729233,
+            "symbolSize": 27.13003806729233,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "孟郊",
+            "value": 0.04265094563742496,
+            "symbolSize": 43.15094563742496,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "宋之问",
+            "value": 0.007959806688560143,
+            "symbolSize": 8.459806688560143,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "岑参",
+            "value": 0.01047436434530661,
+            "symbolSize": 10.97436434530661,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "张籍",
+            "value": 0.02336849224814658,
+            "symbolSize": 23.86849224814658,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "张说",
+            "value": 0.007070241392222002,
+            "symbolSize": 7.570241392222002,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "徐铉",
+            "value": 0.01201778386041868,
+            "symbolSize": 12.51778386041868,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "方干",
+            "value": 0.008945532306775663,
+            "symbolSize": 9.445532306775663,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "权德舆",
+            "value": 0.009039991635310295,
+            "symbolSize": 9.539991635310294,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "李中",
+            "value": 0.010176099442108687,
+            "symbolSize": 10.676099442108688,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "李商隐",
+            "value": 0.010047014505162818,
+            "symbolSize": 10.547014505162817,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "李白",
+            "value": 0.04551536130429478,
+            "symbolSize": 46.01536130429478,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "李端",
+            "value": 0.016917523674198544,
+            "symbolSize": 17.417523674198545,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "李逢吉",
+            "value": 0.013800473801027276,
+            "symbolSize": 14.300473801027277,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "李隆基",
+            "value": 0.010760502981412172,
+            "symbolSize": 11.260502981412172,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "杜牧",
+            "value": 0.011125552492720462,
+            "symbolSize": 11.625552492720463,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "杜甫",
+            "value": 0.028664507272803442,
+            "symbolSize": 29.16450727280344,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "王建",
+            "value": 0.008668707337119483,
+            "symbolSize": 9.168707337119482,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "王昌龄",
+            "value": 0.016178285588632768,
+            "symbolSize": 16.678285588632768,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "王维",
+            "value": 0.015494205647889,
+            "symbolSize": 15.994205647889,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "王起",
+            "value": 0.013506766514344399,
+            "symbolSize": 14.006766514344399,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "白居易",
+            "value": 0.09989842421508889,
+            "symbolSize": 100.3984242150889,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "皇甫冉",
+            "value": 0.01334357879165701,
+            "symbolSize": 13.843578791657011,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "皎然",
+            "value": 0.026063592196601926,
+            "symbolSize": 26.563592196601924,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "皮日休",
+            "value": 0.04315958318604893,
+            "symbolSize": 43.65958318604893,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "窦常",
+            "value": 0.020249550202045042,
+            "symbolSize": 20.749550202045043,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "罗隐",
+            "value": 0.01368552665227027,
+            "symbolSize": 14.185526652270271,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "西施",
+            "value": 0.012938558593179335,
+            "symbolSize": 13.438558593179335,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "许浑",
+            "value": 0.008748130831360824,
+            "symbolSize": 9.248130831360823,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "贯休",
+            "value": 0.015400149651519484,
+            "symbolSize": 15.900149651519484,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "贾岛",
+            "value": 0.017128601608915498,
+            "symbolSize": 17.6286016089155,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "郑谷",
+            "value": 0.017055465663843684,
+            "symbolSize": 17.555465663843684,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "郑遨",
+            "value": 0.010826783180538483,
+            "symbolSize": 11.326783180538483,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "钱起",
+            "value": 0.011879157147189009,
+            "symbolSize": 12.379157147189009,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "陆羽",
+            "value": 0.013860170742501069,
+            "symbolSize": 14.360170742501069,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "陆龟蒙",
+            "value": 0.04091446589438819,
+            "symbolSize": 41.414465894388194,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "韦丹",
+            "value": 0.01439658063735168,
+            "symbolSize": 14.89658063735168,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "韦应物",
+            "value": 0.007603742727455094,
+            "symbolSize": 8.103742727455094,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "韦渠牟",
+            "value": 0.017732713573893884,
+            "symbolSize": 18.232713573893886,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "韩愈",
+            "value": 0.042211972453294805,
+            "symbolSize": 42.711972453294806,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "颜真卿",
+            "value": 0.014040022514929777,
+            "symbolSize": 14.540022514929777,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "高适",
+            "value": 0.007586774230836148,
+            "symbolSize": 8.086774230836149,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "鱼玄机",
+            "value": 0.011709576639385523,
+            "symbolSize": 12.209576639385523,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "齐己",
+            "value": 0.030563995192444123,
+            "symbolSize": 31.063995192444125,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        }
+    ]
+}

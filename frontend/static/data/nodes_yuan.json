@@ -1,0 +1,444 @@
+{
+    "nodes": [
+        {
+            "name": "九思",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "元好问",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "元德明",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "元遗山",
+            "value": 0.03649048330626639,
+            "symbolSize": 33.34143497563975,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "冯尊师",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "刘因",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "刘处玄",
+            "value": 0.014019457738103789,
+            "symbolSize": 13.11751196429341,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "刘敏中",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "吴师道",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "吴氏女",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "周景",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "唐桂芳",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "姬翼",
+            "value": 0.01190820730518518,
+            "symbolSize": 11.217386574666662,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "完颜雍",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "张楫",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "明本",
+            "value": 0.019197714996925703,
+            "symbolSize": 17.77794349723313,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "李天翼",
+            "value": 0.019254758346866806,
+            "symbolSize": 17.829282512180125,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "杨弘道",
+            "value": 0.019254758346866806,
+            "symbolSize": 17.829282512180125,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "柯九思",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "梁梅",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "段克己",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "洪希文",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "玄悟玉",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "王丹桂",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "王哲",
+            "value": 0.03758185165044465,
+            "symbolSize": 34.32366648540018,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "王国器",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "王庭筠",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "王恽",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "王礼",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "王翰",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "王鼎",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "罗庆",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "苏大年",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "蔡松年",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "虞集",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "许有壬",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "许有孚",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "赵元",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "郑禧",
+            "value": 0.025,
+            "symbolSize": 23.0,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "马钰",
+            "value": 0.0422927683093407,
+            "symbolSize": 38.56349147840663,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,444 @@
+{
+    "nodes": [
+        {
+            "name": "乾隆",
+            "value": 0.051977233334149296,
+            "symbolSize": 47.27951000073437,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "冒襄",
+            "value": 0.02474694850481305,
+            "symbolSize": 22.772253654331745,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "吴伟业",
+            "value": 0.02746613737865662,
+            "symbolSize": 25.21952364079096,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "吴嘉纪",
+            "value": 0.028245278934377702,
+            "symbolSize": 25.920751040939933,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "吴琪",
+            "value": 0.02554278416347382,
+            "symbolSize": 23.48850574712644,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "尤侗",
+            "value": 0.011954594354941192,
+            "symbolSize": 11.259134919447073,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "屈大均",
+            "value": 0.021925410878769803,
+            "symbolSize": 20.232869790892824,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "康有为",
+            "value": 0.05097033046771125,
+            "symbolSize": 46.373297420940126,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "张之洞",
+            "value": 0.02348744351546746,
+            "symbolSize": 21.638699163920716,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "易顺鼎",
+            "value": 0.021514262610500108,
+            "symbolSize": 19.8628363494501,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "曹雪芹",
+            "value": 0.008645060630650476,
+            "symbolSize": 8.280554567585428,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "曾国藩",
+            "value": 0.010452809194564885,
+            "symbolSize": 9.907528275108398,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "朱彝尊",
+            "value": 0.04147899859826958,
+            "symbolSize": 37.83109873844263,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "李瀚",
+            "value": 0.02150414798587543,
+            "symbolSize": 19.853733187287887,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "李鸿章",
+            "value": 0.0038314176245210735,
+            "symbolSize": 3.948275862068966,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "杜濬",
+            "value": 0.03322820680757765,
+            "symbolSize": 30.40538612681988,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "林古度",
+            "value": 0.008633061795743194,
+            "symbolSize": 8.269755616168876,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "梁启超",
+            "value": 0.03261339387661776,
+            "symbolSize": 29.852054488955986,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "毛奇龄",
+            "value": 0.01963695087235274,
+            "symbolSize": 18.173255785117465,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "沈曾植",
+            "value": 0.009707794559140188,
+            "symbolSize": 9.237015103226168,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "洪亮吉",
+            "value": 0.013474925702252703,
+            "symbolSize": 12.627433132027432,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "王士祯",
+            "value": 0.062252647106212755,
+            "symbolSize": 56.52738239559148,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "纪昀",
+            "value": 0.02554278416347382,
+            "symbolSize": 23.48850574712644,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "纳兰性德",
+            "value": 0.027502985136095635,
+            "symbolSize": 25.25268662248607,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "蒋春霖",
+            "value": 0.012975821868879498,
+            "symbolSize": 12.178239681991549,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "袁枚",
+            "value": 0.018366540204688035,
+            "symbolSize": 17.02988618421923,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "袁树",
+            "value": 0.009707794559140188,
+            "symbolSize": 9.237015103226168,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "邢昉",
+            "value": 0.03133313673859809,
+            "symbolSize": 28.699823064738283,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "郑燮",
+            "value": 0.032388746073423125,
+            "symbolSize": 29.64987146608081,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "金农",
+            "value": 0.01875440959936075,
+            "symbolSize": 17.378968639424677,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "钱谦益",
+            "value": 0.0260663450353121,
+            "symbolSize": 23.959710531780892,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "钱载",
+            "value": 0.023369341189548243,
+            "symbolSize": 21.53240707059342,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "阎修龄",
+            "value": 0.013246255922357527,
+            "symbolSize": 12.421630330121774,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "陆宇燝",
+            "value": 0.02261682342885738,
+            "symbolSize": 20.855141085971642,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "陈维崧",
+            "value": 0.061984334251328585,
+            "symbolSize": 56.28590082619573,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "顾梦游",
+            "value": 0.02861454896119222,
+            "symbolSize": 26.253094065072997,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "魏耕",
+            "value": 0.014600291578538965,
+            "symbolSize": 13.640262420685069,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "麦孟华",
+            "value": 0.01788579347518967,
+            "symbolSize": 16.597214127670703,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "黄云",
+            "value": 0.02664658972249229,
+            "symbolSize": 24.481930750243063,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        },
+        {
+            "name": "龚自珍",
+            "value": 0.03510761919488516,
+            "symbolSize": 32.096857275396644,
+            "label": {
+                "show": true
+            },
+            "itemStyle": {
+                "color": ""
+            }
+        }
+    ]
+}

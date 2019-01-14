@@ -1,0 +1,180 @@
+{
+    "edges": [
+        {
+            "source": "九思",
+            "target": "柯九思",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "元好问",
+            "target": "王鼎",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "元德明",
+            "target": "蔡松年",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "元遗山",
+            "target": "李天翼",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "元遗山",
+            "target": "杨弘道",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "冯尊师",
+            "target": "虞集",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘因",
+            "target": "王恽",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘处玄",
+            "target": "马钰",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘敏中",
+            "target": "王礼",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "吴师道",
+            "target": "王庭筠",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "吴氏女",
+            "target": "郑禧",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "周景",
+            "target": "段克己",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "唐桂芳",
+            "target": "罗庆",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姬翼",
+            "target": "明本",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "完颜雍",
+            "target": "玄悟玉",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张楫",
+            "target": "梁梅",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "明本",
+            "target": "王哲",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "洪希文",
+            "target": "王翰",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王丹桂",
+            "target": "赵元",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王哲",
+            "target": "马钰",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王国器",
+            "target": "苏大年",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "许有壬",
+            "target": "许有孚",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        }
+    ]
+}

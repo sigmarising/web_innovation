@@ -1,0 +1,2948 @@
+{
+    "edges": [
+        {
+            "source": "严维",
+            "target": "刘长卿",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "严维",
+            "target": "卢纶",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "严维",
+            "target": "李端",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "严维",
+            "target": "韦渠牟",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "严维",
+            "target": "岑参",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "严维",
+            "target": "皇甫冉",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "严维",
+            "target": "钱起",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "元稹",
+            "target": "刘禹锡",
+            "value": 11,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "元稹",
+            "target": "孟浩然",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "元稹",
+            "target": "孟郊",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "元稹",
+            "target": "李中",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "元稹",
+            "target": "李白",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "元稹",
+            "target": "李隆基",
+            "value": 8,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "元稹",
+            "target": "杜甫",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "元稹",
+            "target": "王维",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "元稹",
+            "target": "王起",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "元稹",
+            "target": "白居易",
+            "value": 200,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "元稹",
+            "target": "西施",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "元稹",
+            "target": "贾岛",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "元稹",
+            "target": "鱼玄机",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "元稹",
+            "target": "张籍",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "元稹",
+            "target": "许浑",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘禹锡",
+            "target": "孟浩然",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘禹锡",
+            "target": "岑参",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘禹锡",
+            "target": "张籍",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘禹锡",
+            "target": "张说",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘禹锡",
+            "target": "李中",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘禹锡",
+            "target": "李白",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘禹锡",
+            "target": "李端",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘禹锡",
+            "target": "李逢吉",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘禹锡",
+            "target": "李隆基",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘禹锡",
+            "target": "白居易",
+            "value": 121,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘禹锡",
+            "target": "窦常",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘禹锡",
+            "target": "西施",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘禹锡",
+            "target": "钱起",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘禹锡",
+            "target": "韦渠牟",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘禹锡",
+            "target": "韩愈",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘禹锡",
+            "target": "颜真卿",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘禹锡",
+            "target": "鱼玄机",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘禹锡",
+            "target": "姚合",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘禹锡",
+            "target": "孟郊",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘长卿",
+            "target": "张籍",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘长卿",
+            "target": "张说",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘长卿",
+            "target": "李中",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘长卿",
+            "target": "李商隐",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘长卿",
+            "target": "李白",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘长卿",
+            "target": "李端",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘长卿",
+            "target": "王起",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘长卿",
+            "target": "皇甫冉",
+            "value": 14,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘长卿",
+            "target": "皮日休",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘长卿",
+            "target": "窦常",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘长卿",
+            "target": "钱起",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘长卿",
+            "target": "陆羽",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘长卿",
+            "target": "韦应物",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "刘长卿",
+            "target": "韦渠牟",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "卢纶",
+            "target": "宋之问",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "卢纶",
+            "target": "岑参",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "卢纶",
+            "target": "李中",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "卢纶",
+            "target": "李白",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "卢纶",
+            "target": "李端",
+            "value": 8,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "卢纶",
+            "target": "李隆基",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "卢纶",
+            "target": "王建",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "卢纶",
+            "target": "皎然",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "卢纶",
+            "target": "窦常",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "卢纶",
+            "target": "钱起",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "卢纶",
+            "target": "韦丹",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "卢纶",
+            "target": "颜真卿",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "卢纶",
+            "target": "韦渠牟",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚合",
+            "target": "张籍",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚合",
+            "target": "李中",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚合",
+            "target": "李白",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚合",
+            "target": "王建",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚合",
+            "target": "窦常",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚合",
+            "target": "罗隐",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚合",
+            "target": "贾岛",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚合",
+            "target": "韦渠牟",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚合",
+            "target": "方干",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "姚合",
+            "target": "贯休",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟浩然",
+            "target": "孟郊",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟浩然",
+            "target": "宋之问",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟浩然",
+            "target": "李逢吉",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟浩然",
+            "target": "王昌龄",
+            "value": 14,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟浩然",
+            "target": "王维",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟浩然",
+            "target": "王起",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟浩然",
+            "target": "皮日休",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟浩然",
+            "target": "陆羽",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟浩然",
+            "target": "韦渠牟",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟浩然",
+            "target": "权德舆",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟浩然",
+            "target": "李白",
+            "value": 11,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟浩然",
+            "target": "杜牧",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟浩然",
+            "target": "杜甫",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟浩然",
+            "target": "白居易",
+            "value": 15,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟浩然",
+            "target": "罗隐",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟浩然",
+            "target": "贯休",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟浩然",
+            "target": "郑谷",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟浩然",
+            "target": "韦应物",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟浩然",
+            "target": "高适",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟浩然",
+            "target": "齐己",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟郊",
+            "target": "岑参",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟郊",
+            "target": "张籍",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟郊",
+            "target": "李白",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟郊",
+            "target": "皎然",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟郊",
+            "target": "窦常",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟郊",
+            "target": "贾岛",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟郊",
+            "target": "陆羽",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟郊",
+            "target": "韩愈",
+            "value": 175,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟郊",
+            "target": "杜甫",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟郊",
+            "target": "王建",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟郊",
+            "target": "王维",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟郊",
+            "target": "白居易",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟郊",
+            "target": "贯休",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "孟郊",
+            "target": "齐己",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋之问",
+            "target": "张籍",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋之问",
+            "target": "王昌龄",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋之问",
+            "target": "王维",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋之问",
+            "target": "窦常",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋之问",
+            "target": "方干",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋之问",
+            "target": "李白",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋之问",
+            "target": "罗隐",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "宋之问",
+            "target": "高适",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岑参",
+            "target": "张籍",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岑参",
+            "target": "李白",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岑参",
+            "target": "杜甫",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岑参",
+            "target": "王昌龄",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岑参",
+            "target": "窦常",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岑参",
+            "target": "韦丹",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岑参",
+            "target": "韦渠牟",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岑参",
+            "target": "颜真卿",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岑参",
+            "target": "高适",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岑参",
+            "target": "徐铉",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "岑参",
+            "target": "白居易",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张籍",
+            "target": "李白",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张籍",
+            "target": "王建",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张籍",
+            "target": "王起",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张籍",
+            "target": "白居易",
+            "value": 14,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张籍",
+            "target": "窦常",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张籍",
+            "target": "贾岛",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张籍",
+            "target": "韦渠牟",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张籍",
+            "target": "韩愈",
+            "value": 18,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张籍",
+            "target": "鱼玄机",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张籍",
+            "target": "权德舆",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张籍",
+            "target": "李逢吉",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张籍",
+            "target": "李隆基",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张籍",
+            "target": "杜牧",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张籍",
+            "target": "王维",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张籍",
+            "target": "皇甫冉",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张籍",
+            "target": "皎然",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张籍",
+            "target": "郑谷",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张籍",
+            "target": "钱起",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张说",
+            "target": "李白",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张说",
+            "target": "王起",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张说",
+            "target": "窦常",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张说",
+            "target": "韦丹",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张说",
+            "target": "韦渠牟",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张说",
+            "target": "李隆基",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张说",
+            "target": "杜牧",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "徐铉",
+            "target": "李白",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "徐铉",
+            "target": "李逢吉",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "徐铉",
+            "target": "杜牧",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "徐铉",
+            "target": "王起",
+            "value": 10,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "徐铉",
+            "target": "钱起",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "徐铉",
+            "target": "陆羽",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "徐铉",
+            "target": "韦丹",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "徐铉",
+            "target": "鱼玄机",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方干",
+            "target": "杜甫",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方干",
+            "target": "王昌龄",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方干",
+            "target": "窦常",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方干",
+            "target": "罗隐",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方干",
+            "target": "贯休",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方干",
+            "target": "郑谷",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方干",
+            "target": "齐己",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "权德舆",
+            "target": "李中",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "权德舆",
+            "target": "李逢吉",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "权德舆",
+            "target": "白居易",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "权德舆",
+            "target": "陆羽",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "权德舆",
+            "target": "韦丹",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "权德舆",
+            "target": "韦渠牟",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "权德舆",
+            "target": "皇甫冉",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "权德舆",
+            "target": "皮日休",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "权德舆",
+            "target": "齐己",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李中",
+            "target": "鱼玄机",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李中",
+            "target": "杜牧",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李中",
+            "target": "杜甫",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李中",
+            "target": "白居易",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李中",
+            "target": "皎然",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李中",
+            "target": "罗隐",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李中",
+            "target": "韦应物",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李商隐",
+            "target": "杜牧",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李商隐",
+            "target": "杜甫",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李商隐",
+            "target": "王维",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李商隐",
+            "target": "皮日休",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李商隐",
+            "target": "窦常",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李商隐",
+            "target": "西施",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李商隐",
+            "target": "贾岛",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李商隐",
+            "target": "韦丹",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李商隐",
+            "target": "鱼玄机",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李商隐",
+            "target": "王昌龄",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李商隐",
+            "target": "白居易",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李商隐",
+            "target": "钱起",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李商隐",
+            "target": "陆龟蒙",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "李逢吉",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "杜甫",
+            "value": 19,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "王昌龄",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "王起",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "皮日休",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "窦常",
+            "value": 10,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "西施",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "钱起",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "鱼玄机",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "李端",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "杜牧",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "王维",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "白居易",
+            "value": 13,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "罗隐",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "贯休",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "贾岛",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "郑谷",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "陆龟蒙",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "韩愈",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "高适",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "齐己",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李端",
+            "target": "皎然",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李端",
+            "target": "西施",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李端",
+            "target": "钱起",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李端",
+            "target": "韦丹",
+            "value": 11,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李端",
+            "target": "韦渠牟",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李端",
+            "target": "杜甫",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李端",
+            "target": "王昌龄",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李端",
+            "target": "郑谷",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李端",
+            "target": "韦应物",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李端",
+            "target": "鱼玄机",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李逢吉",
+            "target": "李隆基",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李逢吉",
+            "target": "杜甫",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李逢吉",
+            "target": "白居易",
+            "value": 11,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李逢吉",
+            "target": "皇甫冉",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李逢吉",
+            "target": "皎然",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李逢吉",
+            "target": "罗隐",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李逢吉",
+            "target": "高适",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李逢吉",
+            "target": "齐己",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李隆基",
+            "target": "杜甫",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李隆基",
+            "target": "白居易",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李隆基",
+            "target": "贯休",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李隆基",
+            "target": "陆龟蒙",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李隆基",
+            "target": "韦应物",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "李隆基",
+            "target": "齐己",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杜牧",
+            "target": "窦常",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杜牧",
+            "target": "西施",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杜牧",
+            "target": "许浑",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杜牧",
+            "target": "贾岛",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杜牧",
+            "target": "韦渠牟",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杜牧",
+            "target": "白居易",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "王昌龄",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "王维",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "窦常",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "西施",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "郑谷",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "陆羽",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "韦渠牟",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "高适",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "白居易",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "皮日休",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "罗隐",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "许浑",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "贯休",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "钱起",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "陆龟蒙",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "韩愈",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "齐己",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王建",
+            "target": "窦常",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王建",
+            "target": "贾岛",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王建",
+            "target": "韦丹",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王建",
+            "target": "韩愈",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王昌龄",
+            "target": "王维",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王昌龄",
+            "target": "韦渠牟",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王昌龄",
+            "target": "高适",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王昌龄",
+            "target": "白居易",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王昌龄",
+            "target": "皎然",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王昌龄",
+            "target": "皮日休",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王昌龄",
+            "target": "罗隐",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王维",
+            "target": "皇甫冉",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王维",
+            "target": "西施",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王维",
+            "target": "钱起",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王维",
+            "target": "韦渠牟",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王维",
+            "target": "高适",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王维",
+            "target": "白居易",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王维",
+            "target": "皎然",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王维",
+            "target": "贯休",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王维",
+            "target": "齐己",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "王起",
+            "target": "白居易",
+            "value": 24,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "白居易",
+            "target": "皮日休",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "白居易",
+            "target": "窦常",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "白居易",
+            "target": "西施",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "白居易",
+            "target": "钱起",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "白居易",
+            "target": "韦渠牟",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "白居易",
+            "target": "韩愈",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "白居易",
+            "target": "鱼玄机",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "白居易",
+            "target": "陆龟蒙",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "白居易",
+            "target": "齐己",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "皇甫冉",
+            "target": "陆羽",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "皇甫冉",
+            "target": "钱起",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "皎然",
+            "target": "皮日休",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "皎然",
+            "target": "窦常",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "皎然",
+            "target": "郑谷",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "皎然",
+            "target": "郑遨",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "皎然",
+            "target": "钱起",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "皎然",
+            "target": "陆羽",
+            "value": 7,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "皎然",
+            "target": "韦丹",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "皎然",
+            "target": "韦应物",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "皎然",
+            "target": "韦渠牟",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "皎然",
+            "target": "颜真卿",
+            "value": 17,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "皎然",
+            "target": "罗隐",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "皎然",
+            "target": "贯休",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "皎然",
+            "target": "陆龟蒙",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "皎然",
+            "target": "齐己",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "皮日休",
+            "target": "西施",
+            "value": 6,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "皮日休",
+            "target": "陆龟蒙",
+            "value": 214,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "皮日休",
+            "target": "韦渠牟",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "皮日休",
+            "target": "贯休",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "窦常",
+            "target": "韦丹",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "窦常",
+            "target": "罗隐",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "窦常",
+            "target": "许浑",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "窦常",
+            "target": "贯休",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "窦常",
+            "target": "贾岛",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "窦常",
+            "target": "郑谷",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "窦常",
+            "target": "钱起",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "窦常",
+            "target": "陆龟蒙",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "窦常",
+            "target": "韦应物",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "窦常",
+            "target": "齐己",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "罗隐",
+            "target": "西施",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "罗隐",
+            "target": "陆龟蒙",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "罗隐",
+            "target": "韦渠牟",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "罗隐",
+            "target": "鱼玄机",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "罗隐",
+            "target": "贯休",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "罗隐",
+            "target": "郑遨",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "罗隐",
+            "target": "齐己",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "西施",
+            "target": "贯休",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "西施",
+            "target": "陆龟蒙",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "西施",
+            "target": "韦应物",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "许浑",
+            "target": "韦丹",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "许浑",
+            "target": "鱼玄机",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "贯休",
+            "target": "贾岛",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "贯休",
+            "target": "韦丹",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "贯休",
+            "target": "韦渠牟",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "贯休",
+            "target": "高适",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "贯休",
+            "target": "鱼玄机",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "贯休",
+            "target": "齐己",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "贾岛",
+            "target": "韩愈",
+            "value": 4,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "贾岛",
+            "target": "郑谷",
+            "value": 5,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "贾岛",
+            "target": "齐己",
+            "value": 8,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "郑谷",
+            "target": "鱼玄机",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "郑谷",
+            "target": "齐己",
+            "value": 18,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "郑遨",
+            "target": "陆羽",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "郑遨",
+            "target": "颜真卿",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "郑遨",
+            "target": "齐己",
+            "value": 19,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "钱起",
+            "target": "陆羽",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "钱起",
+            "target": "鱼玄机",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "陆羽",
+            "target": "颜真卿",
+            "value": 8,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "陆羽",
+            "target": "齐己",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "陆龟蒙",
+            "target": "韦丹",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "陆龟蒙",
+            "target": "韩愈",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "陆龟蒙",
+            "target": "鱼玄机",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "陆龟蒙",
+            "target": "齐己",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "韦丹",
+            "target": "韦应物",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "韦丹",
+            "target": "齐己",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "韦应物",
+            "target": "韦渠牟",
+            "value": 3,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "韦应物",
+            "target": "鱼玄机",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "韦渠牟",
+            "target": "颜真卿",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "鱼玄机",
+            "target": "齐己",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        }
+    ]
+}

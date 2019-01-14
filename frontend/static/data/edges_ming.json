@@ -1,0 +1,156 @@
+{
+    "edges": [
+        {
+            "source": "刘基",
+            "target": "王世贞",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "唐寅",
+            "target": "唐顺之",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "唐寅",
+            "target": "方以智",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "唐寅",
+            "target": "沈周",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "唐寅",
+            "target": "王思任",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "唐寅",
+            "target": "祝枝山",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "唐寅",
+            "target": "解缙",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "唐寅",
+            "target": "郑成功",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "唐寅",
+            "target": "文征明",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "夏完淳",
+            "target": "李梦阳",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张时彻",
+            "target": "徐渭",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "张红桥",
+            "target": "林鸿",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "徐渭",
+            "target": "解缙",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "徐渭",
+            "target": "王守仁",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方以智",
+            "target": "杨基",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方以智",
+            "target": "沈周",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方以智",
+            "target": "紫霞真人",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方以智",
+            "target": "解缙",
+            "value": 2,
+            "lineStyle": {
+                "color": "source"
+            }
+        },
+        {
+            "source": "方以智",
+            "target": "陈子龙",
+            "value": 1,
+            "lineStyle": {
+                "color": "source"
+            }
+        }
+    ]
+}
